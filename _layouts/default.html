@@ -1,62 +1,61 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: 'en-US' }}">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>M. Rayan Barhdadi</title>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <title>M. Rayan Barhdadi</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {% seo %}
-  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-  <!-- Support for older IE versions -->
-  <!--[if lt IE 9]>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-  <![endif]-->
-  
-  <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-L78RTS8NGL"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-L78RTS8NGL');
-  </script>
-</head>
-<body>
-  <div class="wrapper">
-    <header>
-      <h1><a href="{{ '/' | absolute_url }}">Mohamed Rayan Barhdadi</a></h1>
-      {% if site.logo %}
-        <img src="{{ site.logo | relative_url }}" alt="Site logo for Mohamed Rayan Barhdadi">
-      {% endif %}
-      <p>
-        Contact: <a href="mailto:rayan.barhdadi@tamu.edu">rayan.barhdadi [at] tamu.edu</a><br>
-        LinkedIn: <a href="https://www.linkedin.com/in/rayanbarhdadi/" target="_blank" rel="noopener noreferrer">Click here!</a><br>
-        <a href="/docs/cv-rayan.pdf" target="_blank" rel="noopener noreferrer">CV</a>
-      </p>
-    </header>
-    
-    <main>
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L78RTS8NGL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-L78RTS8NGL');
+</script>
+  <body>
+    <div class="wrapper">
+        <!--<h1>M. Rayan Barhdadi</h1>-->
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">Mohamed Rayan Barhdadi</a></h1>
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+        <p>Contact: <a href="mailto:rayan.barhdadi@tamu.edu"> rayan.barhdadi [at] tamu.edu</a><br>
+          LinkedIn: <a href="https://www.linkedin.com/in/rayanbarhdadi/">Click here!</a><br>
+          <a href="/docs/cv-rayan.pdf">CV</a>
+        </p>
+
+
+      </header>
+      <section>
+
       {{ content }}
-    </main>
-    
-    <footer>
-      <p>
-        <small>Powered by Jekyll | Theme by <a href="https://github.com/orderedlist" target="_blank" rel="noopener noreferrer">orderedlist</a></small>
-      </p>
-    </footer>
-  </div>
-
-  <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-  {% if site.google_analytics %}
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-    ga('create', '{{ site.google_analytics }}', 'auto');
-    ga('send', 'pageview');
-  </script>
-  {% endif %}
-</body>
+      
+      </section>
+      <!--<footer>
+        <p><small>Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>-->
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
 </html>
