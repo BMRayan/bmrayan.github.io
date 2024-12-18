@@ -1,3 +1,5 @@
+[NOT FINALIZED - WEBSITE IN CONSTRUCTION]
+
 I am a second-year undergraduate student at [Texas A&M University's Qatar Campus](https://www.qatar.tamu.edu/), majoring in Electrical Engineering. I am also part of the Engineering Honors Program and serve as Vice-President of The Peace Club at our campus. My academic and extracurricular journey has been shaped by a strong passion for data analytics, machine learning, and quantum computing.
 
 Today, with the increasing complexity and volume of data, fields like transformer condition monitoring and dissolved gas analysis (DGA) demand innovative approaches to analyze, interpret, and leverage data for practical decision-making. Inspired by these challenges, my current research focuses on developing comprehensive databases and employing machine learning models to enhance fault detection and transformer condition monitoring. My aim is to provide actionable insights for industries while promoting the accessibility and usability of these datasets.
