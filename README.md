@@ -12,11 +12,9 @@ Dissolved Gas Analysis (DGA) is a critical diagnostic tool for monitoring the he
 ### Machine Learning Models for Transformer Fault Detection
 Utilizing the DGA database, I am developing machine learning models that interpret historical gas concentration data to predict transformer faults. This research aims to integrate data science with domain expertise to optimize decision-making processes in transformer maintenance and reliability.
 
-## Publications and Contributions
-Mohamed Rayan Barhdadi, [Prof. Selma Awadallah](https://www.qatar.tamu.edu/academics/ecen/faculty-and-staff/dr.-selma-awadallah). This paper explores the potential of using advanced data analytics methods to predict transformer failures, showcasing the integration of high-dimensional data with machine learning techniques.
-
-"Creating Accessible Databases for Transformer Monitoring" (Accepted for Presentation)Mohamed Rayan BarhdadiPresented findings from the development of a DGA database at the [Conference Name], highlighting its impact on the field of power systems diagnostics.
+## Publications, Presentations, and Contributions
+M. R. Barhdadi, advised by [Dr. Selma Awadallah](https://www.qatar.tamu.edu/academics/ecen/faculty-and-staff/dr.-selma-awadallah). Transformer Monitoring: A Comprehensive Multidimensional Database for Dissolved Gas Analysis. [Poster]. Presented at the Hamad Bin Khalifa University STEAM Showcase, 2024.
 
 ## Other
-etc
+...
 
