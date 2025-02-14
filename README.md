@@ -14,4 +14,4 @@ M. R. Barhdadi, advised by [Dr. Selma Awadallah](https://www.qatar.tamu.edu/acad
 *Developing an AI powered multi-sport marketplace* [Co-presented]. Qatar Foundation Technology-Based Ideas Pitch Competition, HiEd Entrepreneurship \& Innovation Summit, 2024 (HiEd '24).
 
 ## Other
-For more details, visit my [LinkedIn](https://www.linkedin.com/in/rayanbarhdadi/) 
+For more details and the latest news, visit my [LinkedIn](https://www.linkedin.com/in/rayanbarhdadi/) 
