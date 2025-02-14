@@ -11,7 +11,7 @@ Developing a diagnostic tool and API that leverages machine learning models to a
 ## Publications, Presentations, and Contributions
 M. R. Barhdadi, advised by [Dr. Selma Awadallah](https://www.qatar.tamu.edu/academics/ecen/faculty-and-staff/dr.-selma-awadallah). *Transformer Monitoring: A Comprehensive Multidimensional Database for Dissolved Gas Analysis.* [Poster]. Presented at the Hamad Bin Khalifa University STEAM Showcase, 2024.
 
-*Developing an AI powered multi-sport marketplace* [Co-presented]. Qatar Foundation Technology-Based Ideas Pitch Competition, HiEd Entrepreneurship \& Innovation Summit, 2024 (HiEd '24).
+*Developing an AI powered multi-sport marketplace* [Co-presented]. Qatar Foundation Technology-Based Ideas Pitch Competition, HiEd Entrepreneurship & Innovation Summit, 2024 (HiEd '24).
 
 ## Other
 For more details and the latest news, visit my [LinkedIn](https://www.linkedin.com/in/rayanbarhdadi/) 
