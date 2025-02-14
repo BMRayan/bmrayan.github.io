@@ -16,7 +16,7 @@ M. R. Barhdadi, advised by [Dr. Selma Awadallah](https://www.qatar.tamu.edu/acad
 ## Other
 For more details and the latest news, visit my [LinkedIn](https://www.linkedin.com/in/rayanbarhdadi/) 
 
-*Do not hesitate to contact me! I am always open to new opportunities and collaborations.*  
-*[Email me at rayan.barhdadi@tamu.edu](mailto:rayan.barhdadi@tamu.edu) or [mohamed.barhdadi@qatar.tamu.edu](mailto:mohamed.barhdadi@qatar.tamu.edu).*
+And __do not hesitate__ to contact me! I am always open to new opportunities and collaborations.
+*Email me at [rayan.barhdadi@tamu.edu](mailto:rayan.barhdadi@tamu.edu) or [mohamed.barhdadi@qatar.tamu.edu](mailto:mohamed.barhdadi@qatar.tamu.edu).*
 
 
