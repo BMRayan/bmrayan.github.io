@@ -1,4 +1,4 @@
-**Electrical Engineering Student | AI Researcher | Qatar**
+Electrical Engineering Student | AI Researcher | Qatar
 
 I'm a third-year undergraduate at Texas A&M University Qatar, passionate about **physics-informed deep learning** and **multimodal AI for scientific applications**. My work bridges computational science with real-world impact across oceanography, environmental monitoring, and social good initiatives.
 
