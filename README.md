@@ -28,7 +28,7 @@ Creating accessible AI tools for disaster response, environmental justice, and c
 
 - **Global Recognition**: 2nd place globally at Invent for the Planet competition for coastal electrification solutions
 - **Research Funding**: $21,000+ in competitive grants from Qatar Foundation and research councils
-- **Publications**: Multiple papers under review at top-tier conferences (ICML, NeurIPS) and accepted at CIGRE 2025
+- **Publications**: Multiple papers in the process of submission and under review at top-tier conferences (ICML, AAAI, NeurIPS) and accepted at CIGRE 2025
 - **Industry Impact**: Developed automation tools at SLB that reduced report turnaround from days to minutes
 
 ## Technical Background
