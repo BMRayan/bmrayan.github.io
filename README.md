@@ -45,4 +45,4 @@ Creating accessible AI tools for disaster response, environmental justice, and c
 
 ---
 
-*Always interested in collaborations at the intersection of AI, physics, and environmental science.*
+*Always interested in collaborations at the intersection of AI, physics, and their applications in the real world.*
